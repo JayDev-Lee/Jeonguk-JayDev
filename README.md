@@ -26,6 +26,6 @@
 
 
 - 🔭 I’m currently working as Android Lead at Altimobility.
-- 🌱 I’m currently learning Android Jetpack Compose, Efficient Work Process
+- 🌱 I’m currently learning Android Jetpack Compose.
 - 📫 How to reach me: https://open.kakao.com/o/sIcRzIlb, jaydev.and@gmail.com
 - ⚡ Fun fact: MBTI is ISTJ, but ESTJ at work
