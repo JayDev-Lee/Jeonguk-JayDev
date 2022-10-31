@@ -17,7 +17,9 @@
 	<h2 align="center">Stats</h2>
 </p>
 
-​  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonguk-JayDev&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonguk-JayDev&layout=compact&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonguk-JayDev&theme=default&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonguk-JayDev&layout=compact&theme=default)
 
 
 
